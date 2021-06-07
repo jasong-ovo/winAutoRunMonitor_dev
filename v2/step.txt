@@ -1,0 +1,2 @@
+1. qprocess调用 (或者要求直接先执行autorun, 再用QT处理)
+2. 

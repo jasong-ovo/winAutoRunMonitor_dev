@@ -1,0 +1,3 @@
+"Xilinx Information Center.lnk"	"Xilinx Information Center.lnk"	"signed and verified"
+"PGPtray.exe.lnk"	"PGPtray.exe.lnk"	"signed but not trusted"
+"Xilinx Information Center.lnk"	"Xilinx Information Center.lnk"	"signed but not trusted"
